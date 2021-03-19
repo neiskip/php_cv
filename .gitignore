@@ -3,3 +3,4 @@ config.codekit
 config.codekit3
 db_create.php
 _index.html
+preview/*
